@@ -1,0 +1,6 @@
+languages:
+  Lupo:
+    type: programming
+    extensions:
+      - ".lupo"
+    color: "#8A2BE2"
