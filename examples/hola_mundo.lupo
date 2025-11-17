@@ -1,0 +1,5 @@
+// Hola Mundo en Lupo
+publico funcion principal() -> entero {
+    mostrar_linea("Hola, universo desde Lupo 0.1")
+    retornar 0
+}

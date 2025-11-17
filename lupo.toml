@@ -1,0 +1,26 @@
+[proyecto]
+nombre="Lupo"
+version="0.1.0"
+autor="Luciano Lupo"
+descripcion="Lenguaje rapido, seguro y empatico en espanol."
+
+[compilacion]
+salida_por_defecto="binario"
+memoria="ownership"
+optimizacion="rapido"
+
+[dialectos]
+espanol=true
+ingles=true
+japones=true
+
+[modos]
+modo_cuidado=true
+modo_humor=true
+modo_reflexivo=true
+modo_poetico=true
+
+[companero]
+lupo_companion=true
+aprendizaje=true
+practica_sintaxis=true

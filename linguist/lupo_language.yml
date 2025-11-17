@@ -1,0 +1,7 @@
+lupo:
+  type: programming
+  color: "#8A2BE2"
+  extensions:
+    - ".lupo"
+  tm_scope: source.lupo
+  ace_mode: text
